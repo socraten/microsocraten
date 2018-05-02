@@ -1,2 +1,2 @@
 # microsocraten
-Laboratorio di sperimentazione sui micriservizi
+Laboratorio di sperimentazione sui microservizi
